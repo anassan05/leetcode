@@ -14,9 +14,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/anassan05/leetcode/tree/master/0561-array-partition) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/anassan05/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Sorting
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/anassan05/leetcode/tree/master/0561-array-partition) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/anassan05/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/anassan05/leetcode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/anassan05/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
