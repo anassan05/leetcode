@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/anassan05/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/anassan05/leetcode/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/anassan05/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/anassan05/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/anassan05/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/anassan05/leetcode/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/anassan05/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/anassan05/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/anassan05/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/anassan05/leetcode/tree/master/0561-array-partition) |
 ## Two Pointers
 |  |
@@ -51,4 +54,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/anassan05/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Hash Table
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anassan05/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anassan05/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anassan05/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anassan05/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anassan05/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
