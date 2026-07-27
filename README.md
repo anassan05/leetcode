@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/anassan05/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/anassan05/leetcode/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/anassan05/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anassan05/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/anassan05/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Sorting
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/anassan05/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/anassan05/leetcode/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/anassan05/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anassan05/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/anassan05/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Greedy
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anassan05/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anassan05/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
