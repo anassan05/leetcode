@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/anassan05/leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1987-number-of-unique-good-subsequences](https://github.com/anassan05/leetcode/tree/master/1987-number-of-unique-good-subsequences) |
 ## Dynamic Programming
 |  |
