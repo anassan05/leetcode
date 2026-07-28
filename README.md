@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anassan05/leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/anassan05/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/anassan05/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anassan05/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/anassan05/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anassan05/leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/anassan05/leetcode/tree/master/0136-single-number) |
 ## Math
 |  |
 | ------- |
