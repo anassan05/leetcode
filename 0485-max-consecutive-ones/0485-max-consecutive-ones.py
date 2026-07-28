@@ -10,6 +10,6 @@ class Solution(object):
             if nums[i]==1:
                 c+=1
             else:
+                ans=max(ans,c)
                 c=0
-            ans=max(ans,c)
-        return ans
+        return max(c,ans)
