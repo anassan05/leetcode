@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/anassan05/leetcode/tree/master/0053-maximum-subarray) |
 | [1987-number-of-unique-good-subsequences](https://github.com/anassan05/leetcode/tree/master/1987-number-of-unique-good-subsequences) |
 ## Array
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/anassan05/leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/anassan05/leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/anassan05/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/anassan05/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/anassan05/leetcode/tree/master/0189-rotate-array) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/anassan05/leetcode/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/anassan05/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
