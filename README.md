@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/anassan05/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/anassan05/leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1987-number-of-unique-good-subsequences](https://github.com/anassan05/leetcode/tree/master/1987-number-of-unique-good-subsequences) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anassan05/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/anassan05/leetcode/tree/master/0561-array-partition) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anassan05/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/anassan05/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/anassan05/leetcode/tree/master/0189-rotate-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anassan05/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Matrix
 |  |
 | ------- |
