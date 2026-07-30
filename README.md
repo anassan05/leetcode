@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/anassan05/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/anassan05/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/anassan05/leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/anassan05/leetcode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/anassan05/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anassan05/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/anassan05/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -62,16 +63,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/anassan05/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/anassan05/leetcode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anassan05/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/anassan05/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/anassan05/leetcode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anassan05/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/anassan05/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/anassan05/leetcode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anassan05/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/anassan05/leetcode/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/anassan05/leetcode/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
