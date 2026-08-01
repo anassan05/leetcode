@@ -67,12 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/anassan05/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/anassan05/leetcode/tree/master/0547-number-of-provinces) |
+| [0797-all-paths-from-source-to-target](https://github.com/anassan05/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anassan05/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/anassan05/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/anassan05/leetcode/tree/master/0547-number-of-provinces) |
+| [0797-all-paths-from-source-to-target](https://github.com/anassan05/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anassan05/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/anassan05/leetcode/tree/master/0547-number-of-provinces) |
+| [0797-all-paths-from-source-to-target](https://github.com/anassan05/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0997-find-the-town-judge](https://github.com/anassan05/leetcode/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anassan05/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Hash Table
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anassan05/leetcode/tree/master/0078-subsets) |
+| [0797-all-paths-from-source-to-target](https://github.com/anassan05/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Bit Manipulation
 |  |
 | ------- |
