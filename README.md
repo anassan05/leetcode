@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/anassan05/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/anassan05/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/anassan05/leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1987-number-of-unique-good-subsequences](https://github.com/anassan05/leetcode/tree/master/1987-number-of-unique-good-subsequences) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anassan05/leetcode/tree/master/0053-maximum-subarray) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/anassan05/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1987-number-of-unique-good-subsequences](https://github.com/anassan05/leetcode/tree/master/1987-number-of-unique-good-subsequences) |
 ## Array
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/anassan05/leetcode/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/anassan05/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0997-find-the-town-judge](https://github.com/anassan05/leetcode/tree/master/0997-find-the-town-judge) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/anassan05/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/anassan05/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/anassan05/leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/anassan05/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/anassan05/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Math
 |  |
 | ------- |
@@ -165,4 +169,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anassan05/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/anassan05/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 <!---LeetCode Topics End-->
