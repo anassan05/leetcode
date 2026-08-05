@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/anassan05/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/anassan05/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/anassan05/leetcode/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/anassan05/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/anassan05/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anassan05/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/anassan05/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/anassan05/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/anassan05/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
