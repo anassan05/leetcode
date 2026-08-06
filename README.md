@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/anassan05/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/anassan05/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/anassan05/leetcode/tree/master/0561-array-partition) |
+| [0810-chalkboard-xor-game](https://github.com/anassan05/leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/anassan05/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/anassan05/leetcode/tree/master/0997-find-the-town-judge) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anassan05/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -132,12 +133,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/anassan05/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/anassan05/leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/anassan05/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0810-chalkboard-xor-game](https://github.com/anassan05/leetcode/tree/master/0810-chalkboard-xor-game) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/anassan05/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/anassan05/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/anassan05/leetcode/tree/master/0189-rotate-array) |
+| [0810-chalkboard-xor-game](https://github.com/anassan05/leetcode/tree/master/0810-chalkboard-xor-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anassan05/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anassan05/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Matrix
@@ -175,4 +178,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anassan05/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Brainteaser
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/anassan05/leetcode/tree/master/0810-chalkboard-xor-game) |
+## Game Theory
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/anassan05/leetcode/tree/master/0810-chalkboard-xor-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/anassan05/leetcode/tree/master/0810-chalkboard-xor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/anassan05/leetcode/tree/master/0810-chalkboard-xor-game) |
 <!---LeetCode Topics End-->
