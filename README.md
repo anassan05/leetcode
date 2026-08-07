@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anassan05/leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/anassan05/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/anassan05/leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/anassan05/leetcode/tree/master/0078-subsets) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anassan05/leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/anassan05/leetcode/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/anassan05/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0997-find-the-town-judge](https://github.com/anassan05/leetcode/tree/master/0997-find-the-town-judge) |
