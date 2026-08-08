@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anassan05/leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/anassan05/leetcode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/anassan05/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/anassan05/leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/anassan05/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/anassan05/leetcode/tree/master/0136-single-number) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/anassan05/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/anassan05/leetcode/tree/master/0078-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/anassan05/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Bit Manipulation
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/anassan05/leetcode/tree/master/0810-chalkboard-xor-game) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/anassan05/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
