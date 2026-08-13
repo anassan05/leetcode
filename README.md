@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/anassan05/leetcode/tree/master/0058-length-of-last-word) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/anassan05/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/anassan05/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/anassan05/leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
