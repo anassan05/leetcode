@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/anassan05/leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1987-number-of-unique-good-subsequences](https://github.com/anassan05/leetcode/tree/master/1987-number-of-unique-good-subsequences) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anassan05/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/anassan05/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/anassan05/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anassan05/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anassan05/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/anassan05/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -223,4 +225,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anassan05/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/anassan05/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
