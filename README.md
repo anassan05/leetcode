@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/anassan05/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/anassan05/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/anassan05/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/anassan05/leetcode/tree/master/0189-rotate-array) |
 | [0810-chalkboard-xor-game](https://github.com/anassan05/leetcode/tree/master/0810-chalkboard-xor-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anassan05/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/anassan05/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/anassan05/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/anassan05/leetcode/tree/master/0206-reverse-linked-list) |
 ## Directed Acyclic Graph
 |  |
