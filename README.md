@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/anassan05/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anassan05/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/anassan05/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1534-count-good-triplets](https://github.com/anassan05/leetcode/tree/master/1534-count-good-triplets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anassan05/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anassan05/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anassan05/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/anassan05/leetcode/tree/master/1534-count-good-triplets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anassan05/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Brainteaser
 |  |
