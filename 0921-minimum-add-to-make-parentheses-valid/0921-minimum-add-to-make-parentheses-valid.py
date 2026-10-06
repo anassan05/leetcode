@@ -6,7 +6,7 @@ class Solution(object):
         """
         o=ans=0
         for i in s:
-            if i=="(":
+            if i =="(":
                 o+=1
             else:
                 if o>0:
